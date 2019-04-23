@@ -1,3 +1,6 @@
+//Program tomcreate pattern in c
+//Created by Nihar koli
+
 #include<stdio.h>
 #include<conio.h>
 void main()
