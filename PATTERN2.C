@@ -1,4 +1,4 @@
-//Program tomcreate pattern in c
+//Program to create pattern in c
 //Created by Nihar koli
 
 #include<stdio.h>
