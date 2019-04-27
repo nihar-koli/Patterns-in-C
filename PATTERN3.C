@@ -1,3 +1,6 @@
+//Program to print pattern
+//Created by Nihar Anant Koli
+
 #include<stdio.h>
 #include<conio.h>
 void main()
