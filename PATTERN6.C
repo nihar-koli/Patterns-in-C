@@ -1,4 +1,5 @@
 //Created by Nihar Anant Koli
+//Program to print patterns in c
 
 #include<stdio.h>
 #include<conio.h>
